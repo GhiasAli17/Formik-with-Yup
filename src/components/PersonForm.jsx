@@ -8,7 +8,6 @@ const PersonForm = props => {
         errors,
         touched,
         submitCount
-        // editEmployee
     } = props;
     return(
         <div>
